@@ -1,0 +1,17 @@
+<?php
+$a = name
+$b =phone No
+$c = Email
+$d = Message
+$E = Subject
+echo $Name ;
+echo phone No
+echo email 
+echo Message
+echo Subject
+<form action=" name - paras mandrah"></form>
+<form action="Email"></form>
+<form action="Message"></form>
+<form action="Subject"></form>
+<form action="phone No"></form>
+?>
